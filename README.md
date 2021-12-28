@@ -26,4 +26,4 @@ An example has been deployed and _Verified_ on the Ethereum Testnet (Ropsten).
 
 1.  **First smart contract:** [0xB09464f86D042d6caEf0D42B9965c1136855Af6C](https://ropsten.etherscan.io/address/0xb09464f86d042d6caef0d42b9965c1136855af6c)
 2.  **Second smart contract:** [0x0C4137CB28aAd5d694AB9469b6956807Dfec442c](https://ropsten.etherscan.io/address/0x0c4137cb28aad5d694ab9469b6956807dfec442c)
-3.  **Third smart contract:**
+3.  **Third smart contract:** [0x321ab8D72bf692FD073D727379068139c2ae19b9](https://ropsten.etherscan.io/address/0x321ab8d72bf692fd073d727379068139c2ae19b9)
