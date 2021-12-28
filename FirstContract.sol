@@ -8,6 +8,7 @@ contract FirstContract {
         // This method relies on "extcodesize" to check if “msg.sender”
         // is a smart contract address. This results in a vulnerability.
         // Because code is only stored after the constructor execution.
+        // It is often better to use: require(msg.sender == tx.origin)
 
         uint256 size;
         assembly {
